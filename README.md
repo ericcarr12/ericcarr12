@@ -14,9 +14,9 @@ I'm a product design leader and front-end developer with 20+ years of experience
 ---
 
 **Featured projects:**
-- 🤖 **[Ask Springfield](#)** — RAG chatbot answering questions across 801 Simpsons episodes and 2,820 characters — Cloudflare Workers, Vectorize, D1, and Claude
+- 🤖 **[Simpsons.chat](https://www.simpsons.chat)** — RAG chatbot answering questions across 801 Simpsons episodes and 2,820 characters — Cloudflare Workers, Vectorize, D1, and Claude
 - ✂️ **[Prompt Cutter](https://www.promptcutter.com)** — Cuts AI prompt token usage without losing task intent — vanilla JS, rule-based compression, tested against real downstream output quality
-- 🖼️ **[Image Converter](#)** — Batch image converter and compressor — resize, crop, and export to JPG/PNG/WEBP entirely client-side, no upload required
+- 🖼️ **[Image Swapper](#)** — Batch image converter and compressor — resize, crop, and export to JPG/PNG/WEBP entirely client-side, no upload required
 
 ---
 *More below — take a look at the pinned repos 👇*
